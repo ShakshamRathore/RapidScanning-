@@ -52,10 +52,3 @@ Usage
 Download the script and give executable permissions
 
     wget -O rapidscan.py https://raw.githubusercontent.com/skavngr/rapidscan/master/rapidscan.py && chmod +x rapidscan.py
-
-Help
-
-rapidscan help
-Output
-
-rapidscan intro rapidscan outro
